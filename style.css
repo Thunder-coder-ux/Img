@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(245, 177, 177);
+    color: rgba(0, 33, 110, 0.849);
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects, #result_obj_name, #result_obj_acy{
+    color:saddlebrown;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 299.99px;
+}
+
+
+
